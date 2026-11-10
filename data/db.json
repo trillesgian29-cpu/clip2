@@ -1,0 +1,42 @@
+{
+  "projects": [],
+  "renderedClips": [
+    {
+      "id": "job-1794301609755-141",
+      "clipId": "clip-curated-1794301503085-2",
+      "title": "Watch what happened when we didn't stop re...",
+      "sourceVideoId": "vid-1794301399323",
+      "startTime": 62,
+      "endTime": 89,
+      "aspectRatio": "9:16",
+      "status": "completed",
+      "progress": 100,
+      "outputFilename": "clip-job-1794301609755-141-9x16.mp4",
+      "outputPath": "/app/applet/rendered/clip-job-1794301609755-141-9x16.mp4",
+      "downloadUrl": "/api/clips/download/job-1794301609755-141",
+      "duration": 27,
+      "createdAt": "2026-11-10T09:06:49.755Z",
+      "completedAt": "2026-11-10T09:07:54.087Z",
+      "fileSize": 20733228
+    },
+    {
+      "id": "job-1794301517231-204",
+      "clipId": "clip-curated-1794301503085-1",
+      "title": "Nobody is talking about this yet, but it c...",
+      "sourceVideoId": "vid-1794301399323",
+      "startTime": 2,
+      "endTime": 24,
+      "aspectRatio": "9:16",
+      "status": "completed",
+      "progress": 100,
+      "outputFilename": "clip-job-1794301517231-204-9x16.mp4",
+      "outputPath": "/app/applet/rendered/clip-job-1794301517231-204-9x16.mp4",
+      "downloadUrl": "/api/clips/download/job-1794301517231-204",
+      "duration": 22,
+      "createdAt": "2026-11-10T09:05:17.231Z",
+      "completedAt": "2026-11-10T09:06:03.749Z",
+      "fileSize": 14164843
+    }
+  ],
+  "publishedClips": []
+}

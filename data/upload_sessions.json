@@ -1,0 +1,143 @@
+[
+  {
+    "uploadId": "upl-1794238549734-29442cf3b442416b",
+    "filename": "chunk_test.mp4",
+    "totalSize": 474244,
+    "chunkSize": 307200,
+    "totalChunks": 2,
+    "receivedChunks": [
+      0,
+      1
+    ],
+    "receivedBytes": 474244,
+    "status": "completed",
+    "createdAt": 1794238549734,
+    "updatedAt": 1794238549787,
+    "finalPath": "/app/applet/uploads/video-upl-1794238549734-29442cf3b442416b-chunk_test.mp4",
+    "chunkDir": "/app/applet/uploads/chunks/upl-1794238549734-29442cf3b442416b"
+  },
+  {
+    "uploadId": "upl-1794283428712-e9d6a1c6b05510d3",
+    "filename": "test-podcast.mp4",
+    "totalSize": 7050664,
+    "chunkSize": 2097152,
+    "totalChunks": 4,
+    "receivedChunks": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "receivedBytes": 7050664,
+    "status": "completed",
+    "createdAt": 1794283428713,
+    "updatedAt": 1794283428890,
+    "finalPath": "/app/applet/uploads/video-upl-1794283428712-e9d6a1c6b05510d3-test-podcast.mp4",
+    "chunkDir": "/app/applet/uploads/chunks/upl-1794283428712-e9d6a1c6b05510d3"
+  },
+  {
+    "uploadId": "upl-1794283875768-72a340766a71543e",
+    "filename": "corrupt.mp4",
+    "totalSize": 10,
+    "chunkSize": 10,
+    "totalChunks": 1,
+    "receivedChunks": [
+      0
+    ],
+    "receivedBytes": 10,
+    "status": "completed",
+    "createdAt": 1794283875768,
+    "updatedAt": 1794283875804,
+    "finalPath": "/app/applet/uploads/video-upl-1794283875768-72a340766a71543e-corrupt.mp4",
+    "chunkDir": "/app/applet/uploads/chunks/upl-1794283875768-72a340766a71543e"
+  },
+  {
+    "uploadId": "upl-1794284034324-6f42be49da293f60",
+    "filename": "investigation-sample.mp4",
+    "totalSize": 7050664,
+    "chunkSize": 2097152,
+    "totalChunks": 4,
+    "receivedChunks": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "receivedBytes": 7050664,
+    "status": "completed",
+    "createdAt": 1794284034324,
+    "updatedAt": 1794284034505,
+    "finalPath": "/app/applet/uploads/video-upl-1794284034324-6f42be49da293f60-investigation-sample.mp4",
+    "chunkDir": "/app/applet/uploads/chunks/upl-1794284034324-6f42be49da293f60"
+  },
+  {
+    "uploadId": "upl-1794293219756-7e2f23840dc94142",
+    "filename": "verified-sample-podcast.mp4",
+    "totalSize": 7050664,
+    "chunkSize": 2097152,
+    "totalChunks": 4,
+    "receivedChunks": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "receivedBytes": 7050664,
+    "status": "completed",
+    "createdAt": 1794293219757,
+    "updatedAt": 1794293219910,
+    "finalPath": "/app/applet/uploads/video-upl-1794293219756-7e2f23840dc94142-verified-sample-podcast.mp4",
+    "chunkDir": "/app/applet/uploads/chunks/upl-1794293219756-7e2f23840dc94142"
+  },
+  {
+    "uploadId": "upl-1794293220598-708eba3f0e87a7b2",
+    "filename": "corrupt-test.mp4",
+    "totalSize": 102400,
+    "chunkSize": 2097152,
+    "totalChunks": 1,
+    "receivedChunks": [
+      0
+    ],
+    "receivedBytes": 102400,
+    "status": "completed",
+    "createdAt": 1794293220598,
+    "updatedAt": 1794293220613,
+    "finalPath": "/app/applet/uploads/video-upl-1794293220598-708eba3f0e87a7b2-corrupt-test.mp4",
+    "chunkDir": "/app/applet/uploads/chunks/upl-1794293220598-708eba3f0e87a7b2"
+  },
+  {
+    "uploadId": "upl-1794293256296-e044a7812174d7cc",
+    "filename": "verified-sample-podcast.mp4",
+    "totalSize": 7050664,
+    "chunkSize": 2097152,
+    "totalChunks": 4,
+    "receivedChunks": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "receivedBytes": 7050664,
+    "status": "completed",
+    "createdAt": 1794293256297,
+    "updatedAt": 1794293256467,
+    "finalPath": "/app/applet/uploads/video-upl-1794293256296-e044a7812174d7cc-verified-sample-podcast.mp4",
+    "chunkDir": "/app/applet/uploads/chunks/upl-1794293256296-e044a7812174d7cc"
+  },
+  {
+    "uploadId": "upl-1794293257191-7f6d3a712fef7746",
+    "filename": "corrupt-test.mp4",
+    "totalSize": 102400,
+    "chunkSize": 2097152,
+    "totalChunks": 1,
+    "receivedChunks": [
+      0
+    ],
+    "receivedBytes": 102400,
+    "status": "completed",
+    "createdAt": 1794293257191,
+    "updatedAt": 1794293257207,
+    "finalPath": "/app/applet/uploads/video-upl-1794293257191-7f6d3a712fef7746-corrupt-test.mp4",
+    "chunkDir": "/app/applet/uploads/chunks/upl-1794293257191-7f6d3a712fef7746"
+  }
+]
